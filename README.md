@@ -10,3 +10,7 @@ there are one library u should install that named "bitcoin"
 
 ### Usage
 if you have another address list just rename it to "address.txt" and put both "BitCoin-Finder.py" and "address.txt" in same directory the you can run the tool by `python BitCoin-Finder.py`.
+
+
+### Donate
+my BTC address : bc1qa447uc04kumc27x5zefkgpnmk6g60uzcuawtv7
