@@ -4,9 +4,9 @@ a simple tool to generate bitcoin private keys and their addresses and check if 
 ### How BitCoin-Finder works ?
 This tool takes a list of bitcoin addresses and starts generating random bitcoin private keys and checks whether the generated private key address is in the list or not and do not forget that there are a very small chance to find a wallet with balance and you have to be extremely lucky to find it.
 
-###prerequisites
+### prerequisites
 there are one library u should install that named "bitcoin"
 `pip install bitcoin`
 
-###Usage
+### Usage
 if you have another address list just rename it to "address.txt" and put both "BitCoin-Finder.py" and "address.txt" in same directory the you can run the tool by `python BitCoin-Finder.py`.
